@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Mock.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MockTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-MockUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>XLPagerTabStrip-XLPagerTabStrip.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>XLPagerTabStrip.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>47F7AEEE0929026F02BACA91537F1F70</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8FC073EAC188198533E2768A0D682A55</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9354DA2E97AA43289A2C89920A8D646F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A11FF7D01DFAFD8C62AAEDB4C36EA292</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D4BD9267E9B8A61C3E9E8D29B6CC8E7C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
